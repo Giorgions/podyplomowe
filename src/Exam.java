@@ -4,5 +4,7 @@ public class Exam {
         name = "Grzegorz";
 
         System.out.println(name + " zdał końcowy egzamin podyplomowy.");
+
+        //lista osób, które zdały egzamin końcowy.
     }
 }
